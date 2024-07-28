@@ -1,7 +1,7 @@
 ---
 date: 2022-03-12
 title: Down with Covid
-tags: life-update
+tags: life_update
 ---
 
 ## **Context**

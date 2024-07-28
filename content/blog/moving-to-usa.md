@@ -1,7 +1,7 @@
 ---
 title: Moving to USA
 date: 2022-03-12
-tags: life-update
+tags: life_update
 ---
 
 

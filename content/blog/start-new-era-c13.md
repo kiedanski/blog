@@ -2,8 +2,8 @@
 date: 2022-09-03
 title: The Start of A New Era
 tags:
-	- climate-change
-	- life-update
+	- climate_change
+	- life_update
 ---
 
 
