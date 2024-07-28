@@ -1,7 +1,7 @@
 ---
 title: Attention, Attention, Attention
 date: 2022-03-12
-tags: machine-learning
+tags: machine learning
 ---
 
 I have wanted to take some time and learn about transformers for a while. They seems to be revolutionizing every major field within AI, so I could no longer afford to stay away.

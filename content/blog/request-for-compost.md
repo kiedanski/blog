@@ -1,7 +1,7 @@
 ---
 date: 2022-05-29
 title: Request for Compost
-tag: climate_change
+tag: climate change
 ---
 
 # Introduction

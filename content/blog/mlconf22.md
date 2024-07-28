@@ -1,7 +1,7 @@
 ---
 date: 2022-04-01
 title: Takeaways from MLConf 22’
-tags: machine-learning
+tags: machine learning
 ---
 
 # Introduction
