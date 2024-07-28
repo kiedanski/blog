@@ -2,8 +2,8 @@
 date: 2022-03-12
 title: My Ecological Footprint
 tags:
-	- climate change
-	- life update
+  - climate change
+  - life update
 ---
 
 How much carbon I am responsible for?
