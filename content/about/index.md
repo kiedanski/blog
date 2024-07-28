@@ -6,10 +6,10 @@ eleventyNavigation:
 ---
 # About Me
 
-> Diego is a computer engineer, professional *Magic: The Gathering* referee, and university professor who likes to spend afternoons hacking away at obscure CLIs.
+Diego is a computer engineer, professional *Magic: The Gathering* referee, and university professor who likes to spend afternoons hacking away at obscure CLIs.
 Diego's passion for math and fighting climate change took him to Paris for his Ph.D., where he worked on decentralized green energy market modeling and its associated dynamics. Game theory, the blockchain, and Python scripting are his jam. Now he's back in the game to put his skills into practice and do cool stuff that matters.
 Diego is a proud vegan and a retired World of Warcraft enthusiast. His hobbies include bouldering, reading sci-fi novels by Brandon Sanderson, and singing along to 90's Shakira. He has a personal tradition of listening to the trashiest music available to build courage before any important test.
->
+
 
 [Fabián Torres](https://www.eecg.utoronto.ca/~torres62/) wrote that description of me while I was working at [Tryolabs](http://tryolabs.com) and I think it is a great summary of who I am :)
 
