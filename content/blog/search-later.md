@@ -47,6 +47,5 @@ However, your search list might reveal things about yourself that you were not a
 
 10. Focusmate service.
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6ffaea53-e6d6-47c3-9bc2-dc106c10b12f_1850x2667.jpeg)
 
 Interestingly, some things on that list, such as 1 and 10, are not as interesting to me to actually go and search for them later (I still don't know the answer to 1). They were small urges of curisosity that slowly faded as time passed. For others, such as 3, I gave in and searched for them before the end of the week.
