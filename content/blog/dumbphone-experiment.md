@@ -11,10 +11,6 @@ tags:
 
 Today, I want to discuss dumbphones and why they are harder to pull than anticipated.
 
-First, let's start with what a dumbphone is:
-
-![](https://substackcdn.com/image/fetch/w_474,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8e3fffa7-d8e7-4d99-b162-f175dcbda4dc_763x1150.jpeg)![](https://substackcdn.com/image/fetch/w_474,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F484b8d7d-5ab0-4dd9-8a4b-db527b3d62ee_121x300.jpeg)
-
 Dumphones are phones with fewer capabilities than standard smartphones. Some lack a touch screen and are more complicated to use; others don't have Android or iOS and don't allow "normal apps" to be installed. Some phones were designed as dumb from the get-go, and others were recognized as potentially dumb and adopted as such later.
 
 I wanted to try a dumbphone mostly because I wanted to limit how much time I spend doomscrolling or simply avoid being bored.
