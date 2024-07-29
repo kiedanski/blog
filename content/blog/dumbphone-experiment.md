@@ -1,7 +1,7 @@
 ---
 date: 2024-05-28
 title: I tried a dumbphone, but don't extrapolate from my experience
-description: The title aims to be a reference to all those titles saying: "I did that so you don't have to..."
+description: "The title aims to be a reference to all those titles saying: I did that so you don't have to..."
 filename: dumbphone-experiment
 tags: 
   - life update
