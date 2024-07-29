@@ -1,5 +1,5 @@
 ---
-date: 2024-05-07
+date: 2024-05-14
 title: Search Later
 description: The subtle art of not doing things right now because I can
 filename: search-later
