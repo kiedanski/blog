@@ -54,7 +54,23 @@
 			{{ content | safe }}
 		</main>
 
-		<footer></footer>
+		<footer>
+			<form
+				action="https://buttondown.email/api/emails/embed-subscribe/kiedanski"
+				method="post"
+				target="popupwindow"
+				onsubmit="window.open('https://buttondown.email/kiedanski', 'popupwindow')"
+				class="embeddable-buttondown-form"
+			>
+				<label for="bd-email">Enter your email</label>
+				<input type="email" name="email" id="bd-email" />
+				
+				<input type="submit" value="Subscribe" />
+				<p>
+					<a href="https://buttondown.email/refer/kiedanski" target="_blank">Powered by Buttondown.</a>
+				</p>
+			</form>
+		</footer>
 
 		<!-- This page `{{ page.url | htmlBaseUrl }}` was built on {% currentBuildDate %} -->
 	</body>
