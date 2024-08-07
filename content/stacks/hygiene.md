@@ -20,6 +20,7 @@ description: A collection of hygiene products that you need
 * Towel
 * Face towel
 * Hand soap
+* Condoms
 
 
 ## Toothpaste
